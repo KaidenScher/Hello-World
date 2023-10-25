@@ -1,2 +1,2 @@
 Hello-world
-This is teh description.
+This is the description.
